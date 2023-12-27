@@ -179,6 +179,14 @@ body {
   padding: 20px;
 }
 
+.container{
+  display: inline-block;
+  justify-content: center;
+  top: 50%;
+  left: 17%;
+  position: relative;
+}
+
 
 .txto{text-align: center; font-size:1.7em;}
 
