@@ -32,9 +32,6 @@
   .input-box input {
     padding: 5px 10px;
   }
-  .logo{
-    width: 90px;
-  }
   .nav-links ul li a{
     font-size: 19px;
   }
@@ -72,9 +69,6 @@
   .input-box input {
     padding: 5px 1px;
   }
-  .logo{
-    width: 90px;
-  }
   .nav-links ul li a{
     font-size: 19px;
   }
@@ -108,9 +102,6 @@
   }
   .input-box input {
     padding: 5px 10px;
-  }
-  .logo{
-    width: 90px;
   }
   .nav-links ul li a{
     font-size: 19px;
@@ -146,9 +137,6 @@
   .input-box input {
     padding: 5px 10px;
   }
-  .logo{
-    width: 90px;
-  }
   .nav-links ul li a{
     font-size: 19px;
   }
@@ -180,9 +168,6 @@
   .input-box input {
     padding: 5px 10px;
   }
-  .logo{
-    width: 90px;
-  }
   .nav-links ul li a{
     font-size: 19px;
   }
@@ -210,9 +195,6 @@
   }
   .input-box input {
     padding: 5px 1px;
-  }
-  .logo{
-    width: 90px;
   }
   .nav-links ul li a{
     font-size: 19px;
@@ -242,9 +224,6 @@
   .input-box input {
     padding: 5px 1px;
   }
-  .logo{
-    width: 90px;
-  }
   .nav-links ul li a{
     font-size: 19px;
   }
@@ -272,9 +251,6 @@
   }
   .input-box input {
     padding: 5px 1px;
-  }
-  .logo{
-    width: 90px;
   }
   .nav-links ul li a{
     font-size: 19px;
@@ -307,7 +283,7 @@
   padding: 5px 1px;
   }
   .logo{
-    width: 90px;
+    width: 60%;
   }
   .nav-links ul li a{
     font-size: 19px;
@@ -346,7 +322,7 @@
     padding: 3px 0px;
   }
   .logo{
-    width: 70px;
+    width: 60%;
   }
   .nav-links ul li a{
     font-size: 19px;
@@ -382,7 +358,7 @@
     padding: 3px 0px ;
   }
   .logo{
-    width: 45px;
+    width: 70%;
   }
   .nav-links ul li a{
     font-size: 13px;
@@ -421,7 +397,7 @@
     padding: 3px 0px ;
   }
   .logo{
-    width: 45px;
+    width: 70%;
   }
   .nav-links ul li a{
     font-size: 13px;
@@ -685,4 +661,9 @@ h4.panel-title {
 }
 .footer__container{
   background-color: #111;
+}
+.logo{
+  margin-bottom: 0px;
+  position: relative;
+  float:left;
 }
